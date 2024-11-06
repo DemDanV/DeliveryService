@@ -1,0 +1,14 @@
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\bin\Debug\net6.0\OrderFiltration.exe
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\bin\Debug\net6.0\OrderFiltration.deps.json
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\bin\Debug\net6.0\OrderFiltration.runtimeconfig.json
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\bin\Debug\net6.0\OrderFiltration.dll
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\bin\Debug\net6.0\OrderFiltration.pdb
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.AssemblyInfoInputs.cache
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.AssemblyInfo.cs
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.csproj.CoreCompileInputs.cache
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.dll
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\refint\OrderFiltration.dll
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.pdb
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\OrderFiltration.genruntimeconfig.cache
+F:\Projects\C#Net\OrderFiltration\OrderFiltration\obj\Debug\net6.0\ref\OrderFiltration.dll

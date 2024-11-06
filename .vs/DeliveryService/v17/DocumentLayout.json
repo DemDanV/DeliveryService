@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\C#Net\\DeliveryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFDB95A-3D74-4A4E-81E6-26875ACE29B0}|DeliveryService.Tests\\DeliveryService.Tests.csproj|f:\\projects\\c#net\\deliveryservice\\deliveryservice.tests\\orderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFDB95A-3D74-4A4E-81E6-26875ACE29B0}|DeliveryService.Tests\\DeliveryService.Tests.csproj|solutionrelative:deliveryservice.tests\\orderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFDB95A-3D74-4A4E-81E6-26875ACE29B0}|DeliveryService.Tests\\DeliveryService.Tests.csproj|f:\\projects\\c#net\\deliveryservice\\deliveryservice.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFDB95A-3D74-4A4E-81E6-26875ACE29B0}|DeliveryService.Tests\\DeliveryService.Tests.csproj|solutionrelative:deliveryservice.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\TestDataGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepositoryTests.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\DeliveryService\\DeliveryService.Tests\\OrderRepositoryTests.cs",
+              "RelativeDocumentMoniker": "DeliveryService.Tests\\OrderRepositoryTests.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\DeliveryService\\DeliveryService.Tests\\OrderRepositoryTests.cs",
+              "RelativeToolTip": "DeliveryService.Tests\\OrderRepositoryTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:55:23.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\DeliveryService\\DeliveryService.Tests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "DeliveryService.Tests\\OrderServiceTests.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\DeliveryService\\DeliveryService.Tests\\OrderServiceTests.cs",
+              "RelativeToolTip": "DeliveryService.Tests\\OrderServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:18:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDataGenerator.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\TestDataGenerator.cs",
+              "RelativeDocumentMoniker": "..\\OrderFiltration\\OrderFiltration\\TestDataGenerator.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\TestDataGenerator.cs",
+              "RelativeToolTip": "..\\OrderFiltration\\OrderFiltration\\TestDataGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:33:36.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\OrderFiltration\\OrderFiltration\\OrderService.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\OrderService.cs",
+              "RelativeToolTip": "..\\OrderFiltration\\OrderFiltration\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:27:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\OrderFiltration\\OrderFiltration\\OrderRepository.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\OrderRepository.cs",
+              "RelativeToolTip": "..\\OrderFiltration\\OrderFiltration\\OrderRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:25:27.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Logger.cs",
+              "RelativeDocumentMoniker": "..\\OrderFiltration\\OrderFiltration\\Logger.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Logger.cs",
+              "RelativeToolTip": "..\\OrderFiltration\\OrderFiltration\\Logger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:19:35.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Order.cs",
+              "RelativeDocumentMoniker": "..\\OrderFiltration\\OrderFiltration\\Order.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Order.cs",
+              "RelativeToolTip": "..\\OrderFiltration\\OrderFiltration\\Order.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:17:56.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OrderFiltration\\OrderFiltration\\Program.cs",
+              "ToolTip": "F:\\Projects\\C#Net\\OrderFiltration\\OrderFiltration\\Program.cs",
+              "RelativeToolTip": "..\\OrderFiltration\\OrderFiltration\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:17:03.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderFiltration": {
+      "commandName": "Project",
+      "commandLineArgs": "_cityDistrict=District1 _firstDeliveryDateTime=\"2024-11-06 22:29:00\" log filtered_orders"
+    }
+  }
+}
